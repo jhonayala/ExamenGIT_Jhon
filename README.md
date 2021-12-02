@@ -2,8 +2,10 @@
 
  Jhon Deivis Ayala Braithwite 
 
-En este examne voy a poner en practica todos los conocimientos sobre GIT que hemos aprendido
-~ Algunas de las cosa que tendre que hacer seran
+En este examne voy a poner en practica todos los conocimientos sobre GIT que hemos aprendido.
+
+Algunas de las cosa que tendre que hacer seran
+
 ·Crear repositorios locales
 
 ·Realizar commits
